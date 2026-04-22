@@ -1,0 +1,11 @@
+File Copy Program — Source File
+================================
+
+This content was written to the source file.
+Each line will be copied to the destination.
+
+Line 1: The quick brown fox jumps over the lazy dog.
+Line 2: C file I/O uses FILE pointers and fopen/fclose.
+Line 3: Always close files to flush the write buffer.
+
+--- End of source file ---

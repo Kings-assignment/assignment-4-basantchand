@@ -1,0 +1,14 @@
+The C Programming Language
+==========================
+
+C is a general-purpose programming language created
+by Dennis Ritchie at Bell Labs in the early 1970s.
+
+Key features of C:
+  - Low-level memory access via pointers
+  - Portable and efficient compiled code
+  - Structured programming with functions
+  - Foundation for C++, Java, and Python
+
+C remains one of the most widely used languages
+in systems, embedded, and OS development today.
